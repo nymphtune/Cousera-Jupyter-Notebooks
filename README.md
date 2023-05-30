@@ -1,2 +1,2 @@
 # Cousera-Jupyter-Notebooks
-All the .ipynb files from the Coursera courses i have successfully completed.
+<i>All the .ipynb files from the Coursera courses I have successfully completed.</i>
